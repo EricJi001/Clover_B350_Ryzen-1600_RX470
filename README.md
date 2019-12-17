@@ -1,3 +1,8 @@
-# Clover_B350_Ryzen-1600_RX470
 
-##
+#### Info
+- macOS 10.14.6 
+- MSI B350 TOMAHAWK
+- Ryzen5 1600
+- SAPPHIRE RX470 4G
+- WD SN720 512G
+- bcm943602cs
